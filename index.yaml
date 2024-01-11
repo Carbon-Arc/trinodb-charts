@@ -17,6 +17,6 @@ entries:
     - https://github.com/trinodb/trino/tree/master/core/docker
     type: application
     urls:
-    - https://github.com/Carbon-Arc/trinodb-charts/trino-0.15.0.tgz
+    - https://github.com/Carbon-Arc/trinodb-charts/raw/gh-pages/trino-0.15.0.tgz
     version: 0.15.0
 generated: "2024-01-11T14:20:53.044980372+08:00"
